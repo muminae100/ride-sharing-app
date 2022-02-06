@@ -23,9 +23,9 @@
             font-style: italic;
         }
 
-        #distance. #payment {
+        /* #distance. #payment {
             display: none;
-        }
+        } */
         .card-body {
             position: absolute; 
             top: 0; 
